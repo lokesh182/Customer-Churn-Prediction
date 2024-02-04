@@ -5,7 +5,7 @@ import logging
 
 logging.basicConfig(level = logging.INFO,format='[%(asctime)s]:%(message)s')
 
-project_name = "Customer-Churn-Prediction"
+project_name = "CustomerChurnPrediction"
 
 
 list_files = [

@@ -7,7 +7,7 @@ __version__ = "0.0.0" # Version of the package
 
 REPO_NAME = "Customer-Churn-Prediction" # Name of the repository
 AUTHOR_USER_NAME = "lokesh182" #  
-SRC_REPO = "Customer-Churn-Prediction"# Name of the repository
+SRC_REPO = "CustomerChurnPrediction"# Name of the repository
 AUTHOR_EMAIL = "lokesh18.ml@gmail.com" # Email of the author
 
 setuptools.setup(

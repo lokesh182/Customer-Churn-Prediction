@@ -6,4 +6,9 @@ scikit-learn
 scipy
 statsmodels
 datasets
+imblearn
+metrics
+xgboost
+lightgbm 
+CatBoostClassifier
 -e .
